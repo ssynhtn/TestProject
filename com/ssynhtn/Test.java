@@ -6,5 +6,6 @@ public class Test {
 		System.out.println("Hello world!");
 
 		System.out.println("This is from an ssh clone");
+		System.out.println("lalala");
 	}
 } 
